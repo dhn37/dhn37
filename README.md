@@ -7,7 +7,7 @@ My name is Dhanush Nair and here are a few things about me.
 - Currently interested in Cloud Security and Blue teaming.
 - Love solving CTF challenges.
 - Favourite hobby: Working out and Cycling.
-- 😄 Pronouns: he/him.
+- Pronouns: he/him.
 - Portfolio - [dhanushnair.com](https://dhanushnair.com/)
 
 
